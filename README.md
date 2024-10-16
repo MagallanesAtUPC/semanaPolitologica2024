@@ -1,6 +1,8 @@
-# UPC Semana Politologica 2024
+# UPC 
+## Centro de Estudios Políticos
+## Semana Politológica 2024
 
-This is presentation for this event.
+Presentation for this event.
 * Date: Oct 16
 * Time: 18:30 
 * [LINK to SLIDES](https://docs.google.com/presentation/d/e/2PACX-1vSryHTsdmcLEQTavymUKkCU7fXcLZRlNwNiVQ0_OI9GZ4l0aZaQPxc6TwN2j2w19JSIFHTCnyrejVwx/pub?start=false&loop=false&delayms=3000)
